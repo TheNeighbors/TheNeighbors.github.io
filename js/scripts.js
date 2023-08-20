@@ -20,19 +20,8 @@ window.addEventListener('DOMContentLoaded', event => {
         } else {
             navbarCollapsible.classList.add('navbar-shrink')
         }
-
-
-
-
-
-
-
-
-
-
-
-        
     };
+    //1
 
     // Shrink the navbar 
     navbarShrink();
